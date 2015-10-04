@@ -9,3 +9,14 @@ npm install -g recess
 
 4) Open cmd and run this command to transpile less to css: 
    recess file.less --compile > file.css 
+   
+
+==================================================================================
+for gulp task runner
+==================================================================================
+first intall gulp.
+.) npm install gulp
+
+for gulp task runner install these plugins of gulp
+1) npm install gulp-less.
+2) npm install gulp-minify-css.
